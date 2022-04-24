@@ -12,6 +12,7 @@ body {
 header {
     padding: 10px 15px 20px 25px;
     background-color: #39a6b2;
+    position: -webkit-sticky;
     position: sticky;
     top: 0;
     background-image: url("https://static.fullstack-bootcamp.com/module-2/flipped-hero-image.jpg");
